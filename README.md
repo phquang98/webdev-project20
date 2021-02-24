@@ -8,10 +8,13 @@ Tutorialed code to learn about authentication using JSON Web Token.
 
 ## Notes
 
+- undefined in Authorization obj is a string
+- use localStorage, limited use cookie or session
+
 ## Resources
 
 Done based on these:
 
-- asd
+- <https://www.youtube.com/watch?v=7nafaH9SddU>
 - asd
 - asd
